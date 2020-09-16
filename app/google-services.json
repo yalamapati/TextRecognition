@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "730213254350",
+    "firebase_url": "https://text-recognize-sample-5bd89.firebaseio.com",
+    "project_id": "text-recognize-sample-5bd89",
+    "storage_bucket": "text-recognize-sample-5bd89.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730213254350:android:0c731ba47bb594ab8c3c9f",
+        "android_client_info": {
+          "package_name": "com.charan.sampletextrecognition"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "730213254350-phle6ffiet22hqk1c8vrth4lgm7vsuql.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxbhRE-Y_gdH_NsBCnllH6lVWtsDU7WXg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "730213254350-phle6ffiet22hqk1c8vrth4lgm7vsuql.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
